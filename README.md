@@ -17,4 +17,4 @@
 
 ## 📄 Project Report
 You can view the full project report on Google Docs:  
-[AI and Ethics: Ensuring Fairness and Transparency – Project Report](https://docs.google.com/document/d/1KdqUVap2XGJnzbgSwGlojAkgVQvemcNF/edit?usp=sharing&ouid=100517395550021754310&rtpof=true&sd=true)
+[AI and Ethics: Ensuring Fairness and Transparency – Project Report]()
